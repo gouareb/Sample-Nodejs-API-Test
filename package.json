@@ -1,0 +1,22 @@
+{
+  "name": "storage",
+  "version": "1.0.0",
+  "description": "Sample Project for store APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "REST"
+  ],
+  "author": "Sai G",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "file-system": "latest",
+    "fs": "latest",
+    "request": "latest"
+  }
+}

@@ -1,0 +1,22 @@
+{
+// -- user settings
+    "git.enabled": true,
+
+    // Path to the git executable
+    "git.path": "C:\\Users\\Godavas1\\AppData\\Local\\Programs\\Git\\bin\\git.exe",
+    "team.showWelcomeMessage": false,
+    // other settings
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_151",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark",
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true,
+      "prettier.eslintIntegration": true,
+      "prettier.singleQuote": true,
+      "prettier.trailingComma": "es5",
+      "editor.detectIndentation": false,
+      "editor.formatOnSave": true,
+      "editor.autoIndent": true,
+      "files.eol": "\n",
+      "git.autofetch": true
+    }
